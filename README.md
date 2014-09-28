@@ -1,4 +1,4 @@
-dozen-column-lw-tracker-vladir
+Dozen/Column Lw Tracker Vladir
 ==============================
 
 BetSoftware's Dozen/Column Lw Tracker Vladir module.
